@@ -1196,4 +1196,8 @@
     <string name="double_tap_on_doze_to_wake_title">Tap to wake on doze</string>
     <string name="double_tap_on_doze_to_wake_summary">Double-tap to wake when device is dreaming</string>
 
+    <!-- Tiles on secure keyguard -->
+    <string name="use_tiles_on_secure_keyguard_title">Require unlocking to use sensitive tiles</string>
+    <string name="use_tiles_on_secure_keyguard_summary">Ask to unlock lock screen when using sensitive tiles</string>
+
 </resources>
