@@ -40,6 +40,19 @@
         android:key="traffic"
         android:fragment="com.evolution.settings.fragments.Traffic"
         android:title="@string/traffic_title" />
+        
+    <Preference
+        android:key="ticker_settings"
+        android:title="@string/ticker_screen_title"
+        android:summary="@string/ticker_screen_summary"
+        android:fragment="com.android.settings.fragments.notifications.Ticker"/>
+
+        <!-- Statusbar Lyric -->
+     <com.evolution.settings.preference.SystemSettingSwitchPreference
+            android:key="status_bar_show_lyric"
+            android:title="@string/status_bar_show_lyric_title"
+            android:summary="@string/status_bar_show_lyric_summary"
+            android:defaultValue="true" />
 
     <PreferenceCategory
         android:key="battery_style_category"
