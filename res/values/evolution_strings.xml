@@ -70,12 +70,6 @@
     <string name="miui_string" translatable="false">MIUI</string>
     <string name="oos_string" translatable="false">OxygenOS</string>
 
-    <!-- Units -->
-    <string name="unit_milliseconds">milliseconds</string>
-    <string name="unit_percent">\u0025</string>
-    <string name="unit_pixels">dp</string>
-    <string name="unit_seconds">seconds</string>
-
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">On</string>
 
@@ -969,25 +963,6 @@
     <string name="display_hide_notch_title">Hide display cutout</string>
     <string name="display_hide_notch_summary">Disable black fill-in for display cutout</string>
 
-    <!-- Status Bar Ticker -->
-    <string name="ticker_screen_title">Ticker</string>
-    <string name="ticker_screen_summary">Show notifications ticker-style in status bar</string>
-    <string name="ticker_screen_footer">Ticker is visible only when notification heads-up is not shown. Devices with center notch should hide cutout under Cutout options.</string>
-    <string name="ticker_title">Status bar ticker</string>
-    <string name="ticker_summary">Enable the status bar ticker</string>
-    <string name="ticker_restore_defaults_title">Restore defaults</string>
-    <string name="text_title">Text</string>
-    <string name="icon_title">Icon</string>
-    <string name="colors_title">Colors</string>
-    <string name="values_restored_title">Values restored</string>
-    <string name="ticker_disabled">No ticker</string>
-    <string name="ticker_enabled">Notification ticker</string>
-    <string name="ticker_media_enabled">Notifications and music ticker</string>
-    <string name="ticker_animation_mode_title">Ticker animation style</string>
-    <string name="ticker_animation_mode_alpha_fade">Fade</string>
-    <string name="ticker_animation_mode_scroll">Scroll</string>
-    <string name="ticker_tick_duration_title">Ticker duration</string>
-
     <!-- Lockscreen blur -->
     <string name="lockscreen_blur_title">Background blur</string>
 
@@ -1028,11 +1003,7 @@
     <string name="flashlight_on_call_not_dnd">Only in ringer mode</string>
     <string name="flashlight_on_call_dnd">Only in DND mode</string>
     <string name="flashlight_on_call_always">Always</string>
-
-    <!-- Status Bar Lyric -->
-    <string name="status_bar_show_lyric_title">Status bar lyric feature</string>
-    <string name="status_bar_show_lyric_summary">Show lyrics in status bar (requires app support and a SystemUI restart)</string>
-
+    
     <!-- Notification Media Options -->
     <string name="media_category">Media Notification options</string>
     <string name="artwork_media_background_title">Artwork media background</string>
